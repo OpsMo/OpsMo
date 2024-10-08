@@ -1,5 +1,5 @@
-## Hi there, I'm Mo  👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=22769B&width=435&lines=Experienced+Platform+DevOps++Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=22769B&width=435&lines=Hi%2C+I'm+Mo;Platform+DevOps++Engineer)](https://git.io/typing-svg)
+
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange)
 ![CKA Certified](https://img.shields.io/badge/Kubernetes-CKA-blue)
 <!--
