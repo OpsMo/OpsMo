@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=500&color=185570&vCenter=true&repeat=true&width=435&lines=Hi%2C+I%E2%80%99m+Mo+)](https://github.com/OpsMo/OpsMo) \
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=500&color=185570&vCenter=true&repeat=false&width=435&lines=Hi%2C+I%E2%80%99m+Mo+;Platform+DevOps++Engineer)](https://github.com/OpsMo/OpsMo)
 
 
