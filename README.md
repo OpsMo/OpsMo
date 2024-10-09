@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=500&color=185570&vCenter=true&repeat=false&width=435&lines=Hi%2C+I%E2%80%99m+Mo+;Platform+DevOps++Engineer)](https://github.com/OpsMo/OpsMo)
 
-<marquee behavior="scroll" direction="left">
-With around a decade of experience in high-availability infrastructure and workflow automation, I’ve helped businesses optimize their operations for reliability and scalability. Starting with scripting and systems engineering, I’ve spent the last seven years specializing in cloud DevOps, Kubernetes, and Infrastructure as Code (IaC), transforming infrastructures through automation and modern cloud technologies.
-</marquee>
+<svg width="800" height="100">
+  <text x="0" y="50" font-size="20" fill="black">
+    <animate attributeName="x" from="0" to="400" dur="10s" repeatCount="indefinite" />
+    With around a decade of experience in high-availability infrastructure and workflow automation, I’ve helped businesses optimize their operations for reliability and scalability. Starting with scripting and systems engineering, I’ve spent the last seven years specializing in cloud DevOps, Kubernetes, and Infrastructure as Code (IaC), transforming infrastructures through automation and modern cloud technologies.
+  </text>
+</svg>
 
 
 
