@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=500&color=185570&vCenter=true&repeat=false&width=435&lines=Hi%2C+I%E2%80%99m+Mo+;Platform+DevOps++Engineer)](https://github.com/OpsMo/OpsMo)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=1000&pause=7&color=0B2734&repeat=false&width=10000&height=5000&lines=With+around+a+decade+of+experience+in+high-availability+infrastructure+and+workflow+automation%2C+I%E2%80%99ve+helped+businesses+optimize+their+operations+for+reliability+and+scalability.+Starting+with+scripting+and+systems+engineering%2C+I%E2%80%99ve+spent+the+last+seven+years+specializing+in+cloud+DevOps%2C+Kubernetes%2C+and+Infrastructure+as+Code+(IaC)%2C+transforming+infrastructures+through+automation+and+modern+cloud+technologies.)](https://git.io/typing-svg)
+<marquee behavior="scroll" direction="left">
+With around a decade of experience in high-availability infrastructure and workflow automation, I’ve helped businesses optimize their operations for reliability and scalability. Starting with scripting and systems engineering, I’ve spent the last seven years specializing in cloud DevOps, Kubernetes, and Infrastructure as Code (IaC), transforming infrastructures through automation and modern cloud technologies.
+</marquee>
 
 
 
